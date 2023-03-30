@@ -1,0 +1,23 @@
+<html lang="en">
+    <head>
+        <title>Link</title>
+    </head>
+    <body>
+                <div class="content">
+                    <div class="blog-single">
+                        <div class="image-box">
+                            <img src="journalkit_40pcs.jpg" alt="">
+                        </div>
+                        <div class="text-box">
+                            <h2>Journaling</h2>
+                            <p>Journaling adalah kegiatan menuangkan ide, pikiran, perasaan atau emosi yang berkaitan dengan berbagai peristiwa dalam hidup dalam bentuk gambar agar kita bisa memahaminya dengan lebih jelas.</p>
+                            <a href="Journaling.html">Read more</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="clear"></div>
+            </div>
+        </div>
+    </body>
+
+</html>
